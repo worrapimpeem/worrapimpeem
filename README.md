@@ -2,8 +2,7 @@
 🌱 I’m currently learning Node.js
 ***
 ## Reference for decorating my profile
-cr. [Structure](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-cr. [Icon](https://gist.github.com/rxaviers/7360908)
+cr. [Structure](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) , [Icon](https://gist.github.com/rxaviers/7360908)
 <!--
 **worrapimpeem/worrapimpeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
