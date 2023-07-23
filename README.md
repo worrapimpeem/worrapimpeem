@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning Node.js
 ***
-##Reference for decorating my profile
+## Reference for decorating my profile
 cr. [Structure]([https://gist.github.com/rxaviers/7360908](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
 cr. [Icon](https://gist.github.com/rxaviers/7360908)
 <!--
