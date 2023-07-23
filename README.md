@@ -1,7 +1,9 @@
 ### Hi there 👋
 🌱 I’m currently learning Node.js
 ***
-cr. [example](https://gist.github.com/rxaviers/7360908)
+##Reference for decorating my profile
+cr. [Structure]([https://gist.github.com/rxaviers/7360908](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+cr. [Icon](https://gist.github.com/rxaviers/7360908)
 <!--
 **worrapimpeem/worrapimpeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
